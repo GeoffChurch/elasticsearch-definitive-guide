@@ -23,7 +23,7 @@ follows:
 if (price < threshold) {
   profit = price * margin
 } else {
-  profit = price * (1 - discount) * margin;
+  profit = price * (1 - discount) * margin
 }
 -------------------------
 
